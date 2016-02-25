@@ -8,7 +8,7 @@
    },
    {
 	"appID": "J349XY2U25.com.nttdocomo.sample.ultest",
-	"paths": ["/ios-apps/sample/"]
+	"paths": ["/ios-apps/sample/*/"]
    }
 ]
 }
