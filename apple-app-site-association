@@ -4,7 +4,7 @@
 "details":[
    {
 	"appID": "J349XY2U25.com.smarvoice.smarbible",
-	"paths": ["/ios-apps/smarbible/"]
+	"paths": ["/ios-apps/sample/*/"]
    },
    {
 	"appID": "J349XY2U25.com.nttdocomo.sample.ultest",
