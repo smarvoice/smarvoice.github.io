@@ -1,0 +1,15 @@
+{
+"applinks":{
+"apps":[],
+"details":[
+   {
+	"appID": "J349XY2U25.com.smarvoice.smarbible",
+	"paths": ["/io-apps/smarbible/"]
+   },
+   {
+	"appID": "J349XY2U25.com.nttdocomo.sample.ultest",
+	"paths": ["/io-apps/sample/"]
+   }
+]
+}
+}
